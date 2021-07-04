@@ -74,9 +74,10 @@ body {
 }
 
 .header .header-container h1 {
-	font-family: 'Quicksand', sans-serif;
-    font-family: 'Raleway', sans-serif;
+	font-family: 'Bebas Neue', cursive;
+    font-family: 'Staatliches', cursive;
 	font-size: 8rem;
+	font-weight: 10;
 }
 
 @media (max-width: 900px) {
